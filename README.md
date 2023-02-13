@@ -1,4 +1,4 @@
-# Desafio-03---Refactorin Bugs
+# Challenge-03---Fixing Bugs
 
 ## Description
 
