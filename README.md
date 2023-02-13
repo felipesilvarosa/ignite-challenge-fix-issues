@@ -1,4 +1,4 @@
-# Challenge-03---Fixing Bugs
+# Challenge----Fixing Bugs
 
 ## Description
 
